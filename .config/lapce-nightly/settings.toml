@@ -1,0 +1,6 @@
+[core]
+color-theme = "Catppuccin Macchiato"
+icon-theme = "Material Icons"
+
+[editor]
+font-size = 16

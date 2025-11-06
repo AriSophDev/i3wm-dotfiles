@@ -1,0 +1,21 @@
+{
+  "size": {
+    "width": 1821.3333333333333,
+    "height": 960.0
+  },
+  "pos": {
+    "x": 0.0,
+    "y": 32.0
+  },
+  "maximised": false,
+  "tabs": {
+    "active_tab": 0,
+    "workspaces": [
+      {
+        "kind": "Local",
+        "path": "/home/topi/portdolio2",
+        "last_open": 1761408791
+      }
+    ]
+  }
+}

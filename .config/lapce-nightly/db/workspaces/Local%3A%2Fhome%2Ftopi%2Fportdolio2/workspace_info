@@ -1,0 +1,106 @@
+{
+  "split": {
+    "children": [
+      {
+        "EditorTab": {
+          "active": 0,
+          "is_focus": true,
+          "children": [
+            {
+              "Editor": {
+                "content": {
+                  "File": {
+                    "path": "/home/topi/portdolio2/src/components/Proyectos.astro",
+                    "read_only": false
+                  }
+                },
+                "unsaved": null,
+                "offset": 712,
+                "scroll_offset": [
+                  0.0,
+                  695.4131779633462
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "Horizontal"
+  },
+  "panel": {
+    "panels": {
+      "RightTop": [
+        "DocumentSymbol"
+      ],
+      "BottomLeft": [
+        "Terminal",
+        "Search",
+        "Problem",
+        "CallHierarchy",
+        "References",
+        "Implementation"
+      ],
+      "LeftTop": [
+        "FileExplorer",
+        "Plugin",
+        "SourceControl",
+        "Debug"
+      ]
+    },
+    "styles": {
+      "RightTop": {
+        "active": 0,
+        "shown": false,
+        "maximized": false
+      },
+      "RightBottom": {
+        "active": 0,
+        "shown": false,
+        "maximized": false
+      },
+      "BottomLeft": {
+        "active": 0,
+        "shown": true,
+        "maximized": false
+      },
+      "LeftBottom": {
+        "active": 0,
+        "shown": false,
+        "maximized": false
+      },
+      "LeftTop": {
+        "active": 0,
+        "shown": true,
+        "maximized": false
+      },
+      "BottomRight": {
+        "active": 0,
+        "shown": false,
+        "maximized": false
+      }
+    },
+    "size": {
+      "left": 373.8511759440104,
+      "left_split": 0.5,
+      "bottom": 300.0,
+      "bottom_split": 0.5,
+      "right": 250.0,
+      "right_split": 0.5
+    },
+    "sections": {
+      "Process": true,
+      "OpenEditor": false,
+      "Breakpoint": true,
+      "Error": true,
+      "Available": true,
+      "StackFrame": true,
+      "Warn": true,
+      "Changes": true,
+      "Variable": true,
+      "FileExplorer": true,
+      "Installed": true
+    }
+  },
+  "breakpoints": {}
+}
